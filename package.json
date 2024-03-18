@@ -28,5 +28,6 @@
     "deploy": "gh-pages -d build",
     "start": "node ./bin/www"
   }
-}
+  }
+
 
